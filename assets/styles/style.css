@@ -41,7 +41,7 @@ main {
 }
 
 #password p {
-    font-size: 14px;
+    font-size: 0.8em;
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
@@ -79,6 +79,7 @@ input[type=number] {
     border-radius: 5px;
     color: #151716;
     padding: 2.5px 0 2.5px 7.5px;
+    border: none;
 }
 
 input:focus {

@@ -1,0 +1,20 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+@media screen and (max-width: 500px) {
+    main {
+        width: 100%;
+    }
+    #password button {
+        font-size: .9em;
+    }
+    #password p {
+        font-size: 11.5px;
+    }
+    #inputs button {
+        font-size: 1em;
+    }
+    label {
+        font-size: .8em;
+    }
+}
